@@ -65,6 +65,10 @@ text-align: center;
 
 
 @media (min-width:0px) and (max-width:600px){
+    .form__box{
+        width: 90%;
+    }
+
     .show__data{
         flex-direction:column;
     }
