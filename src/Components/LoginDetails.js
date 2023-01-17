@@ -89,7 +89,7 @@ const LoginDetails = () => {
           onChange={handleChange}
         />
         <br />
-        <button type="submit">Register New</button>
+        <button type="submit">Register New User</button>
       </form>
       {/* Show Data */}
       {newRecord.map((currElem) => {
